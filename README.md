@@ -48,6 +48,7 @@ This project integrates IoT with Machine Learning to build an age and gender det
 ### 2. Python Flask Server
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Age-gender_detection_using_esp32CamModule
+   git clone https://github.com/yourusername/aAge-gender_detection_using_esp32CamModule
 .git
-   cd age-gender-detection-iot
+   cd Age-gender_detection_using_esp32CamModule
+
