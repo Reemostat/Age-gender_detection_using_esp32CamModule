@@ -52,3 +52,10 @@ This project integrates IoT with Machine Learning to build an age and gender det
 .git
    cd Age-gender_detection_using_esp32CamModule
 
+##### outputs
+   ![Image 18-11-24 at 12 33 PM](https://github.com/user-attachments/assets/a69ab8af-6fa8-4fc8-a54e-cfdcb26de862)
+   ########
+   ![634DF96F-DF72-4578-ADFE-589E64C5CE3E_1_105_c](https://github.com/user-attachments/assets/16ec678c-92bb-43bf-b37d-8257244ad9ac)
+
+
+
